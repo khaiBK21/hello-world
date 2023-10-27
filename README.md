@@ -1,3 +1,2 @@
-# hello-world
-# October 27th, 2023
+# README - VERSION 1.0
 This file is used as a demo for using GitHub.
